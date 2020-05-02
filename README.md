@@ -2,9 +2,9 @@
 
 ## Naming Prefixes
 
-`isv` is for "Immersive Science Visualizations"
-`noc` is for my "Nature of Code" example project
-`bx` is for examples made for my own reference, e.i. "Bryan eXample"
+- `isv` is for "Immersive Science Visualizations"
+- `noc` is for my "Nature of Code" example project
+- `bx` is for examples made for my own reference, e.i. "Bryan eXample"
 
 ## Project Details
 
